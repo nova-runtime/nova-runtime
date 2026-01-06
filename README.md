@@ -45,9 +45,9 @@ Wir glauben daran, dass **Server-Sicherheit auch ohne invasive Core-Änderungen*
 
 ## 🗺️ Roadmap (kurz)
 
-- [ ] Book- & NBT-Exploit-Schutz  
-- [ ] Packet- & Rate-Limit-Checks  
-- [ ] Zentrale Config & Reload-System  
+- [x] Book- & NBT-Exploit-Schutz  
+- [x] Packet- & Rate-Limit-Checks  
+- [x] Zentrale Config & Reload-System  
 - [ ] Netzwerk-Unterstützung (Proxy)  
 - [ ] Erweiterbares Security-Framework  
 
