@@ -1,42 +1,64 @@
-<h1 align="center">☄️ Nova</h1>
-<h3 align="center">Minecraft Core & Proxy Engineering</h3>
+# 🌌 Nova Runtime
 
-<p align="center">
-  High-performance server infrastructure • Clean code • No compromises
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Minecraft-Spigot%20%7C%20Bungee-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Performance%20%26%20Stability-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Active-informational?style=for-the-badge" />
-</p>
+Willkommen bei **Nova Runtime** 👋  
+Wir entwickeln **moderne Minecraft-Plugins** mit Fokus auf **Security, Stabilität und Performance**  
+für **Spigot-, Paper- und Netzwerk-Server**.
 
 ---
 
-## ☄️ About Nova
+## 🔐 Aktuelles Projekt: NovaSecurity
 
-Nova is a **Minecraft server engineering project** focused on building  
-**fast, stable and scalable core systems** for modern networks.
+**NovaSecurity** ist ein leichtgewichtiges **Security-Plugin** für Minecraft-Server.
 
-This is not a plugin collection.  
-This is **infrastructure**.
+🛡️ Ziel:
+- Schutz vor bekannten **Crash- & Exploit-Angriffen**
+- Mehr **Stabilität** ohne Performance-Verlust
+- Saubere, pluginbasierte Lösung statt Core-Mods
 
-I work directly on:
-- server internals  
-- tick & thread optimization  
-- clean patch systems  
-- minimal overhead networking  
-
-Inspired by projects like Paper & Waterfall —  
-but opinionated, focused and **uncompromising**.
+**Plattformen**
+- ✅ Paper (empfohlen)
+- ✅ Spigot
+- ⏳ Bungee / Velocity (geplant)
 
 ---
 
-## 🧠 What I Do
+## ✨ Fokus & Philosophie
 
-```text
-▸ Custom Spigot forks
-▸ Proxy & network layer optimization
-▸ Performance profiling & tuning
-▸ Async-safe systems
-▸ Clean, maintainable patches
+- 🔐 **Security first**
+- ⚡ **Performance-schonend**
+- 🧩 **Plugin > Fork**
+- 🧠 Verständlicher, wartbarer Code
+- 🚫 Kein unnötiger Feature-Bloat
+
+Wir glauben daran, dass **Server-Sicherheit auch ohne invasive Core-Änderungen** möglich ist.
+
+---
+
+## 🛠️ Technologien
+
+- Java (Spigot / Paper API)
+- Gradle / Maven
+- Modularer Plugin-Aufbau
+- Vorbereitung für Netzwerk-Setups
+
+---
+
+## 🗺️ Roadmap (kurz)
+
+- [ ] Book- & NBT-Exploit-Schutz  
+- [ ] Packet- & Rate-Limit-Checks  
+- [ ] Zentrale Config & Reload-System  
+- [ ] Netzwerk-Unterstützung (Proxy)  
+- [ ] Erweiterbares Security-Framework  
+
+---
+
+## 🚀 Ziel
+
+Nova Runtime soll eine **zuverlässige Basis für sichere Minecraft-Server**
+werden – egal ob kleiner Community-Server oder größeres Netzwerk.
+
+---
+
+> Built with ❤️, Java & too much debugging  
+> Minecraft Server Security – done right.
